@@ -1,0 +1,129 @@
+body{
+    background-color: lightgrey;
+    margin: 5px;
+}
+#homeheader{
+    text-align: center;
+    background-color: white;
+    border: 2px solid black;
+    padding-bottom: ;
+    box-shadow: 10px 10px 5px grey;
+}
+#content{
+    margin: 10px;
+    color: black;
+}
+#prof{
+    height: 500px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#sectionabout{
+    background-color: white;
+    padding: 1%;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+#h1story{
+    text-align: center;
+}
+#sectionstory{
+    background-color: white;
+    padding: 1%;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+#nasipit{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h3childhood{
+    text-align: center;
+}
+#teen{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h3teen{
+    text-align: center;
+}
+#sectionhobby{
+    background-color: white;
+    padding: 1%;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+#h1hobby{
+    text-align: center;
+}
+#hobbyindoor{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h3indoor{
+    text-align: center;
+}
+#vroom{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h1fav{
+    text-align: center;
+}
+#sectionfavs{
+    background-color: white;
+    padding: 1%;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+#favcar{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h3favcar{
+    text-align: center;
+}
+#favplane{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h3favplane{
+    text-align: center;
+}
+#sectionplane{
+    background-color: white;
+    padding: 1%;
+    border: 2px solid gray;
+    border-radius: 5%;
+}
+#h1friends{
+    text-align: center;
+}
+#friend{
+    height: 300px;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+#h3friend{
+    text-align: center;
+}
+#footah{
+    text-align: center;
+}
+#foot{
+    color: black;
+}
